@@ -1,0 +1,18 @@
+# Core
+requests
+pandas
+pyarrow
+numpy
+matplotlib
+scikit-learn
+sentence-transformers
+anthropic
+
+# Dashboards
+streamlit
+gradio
+
+# Optional: full BERTopic clustering (notebook 03 falls back to KMeans without these)
+bertopic
+umap-learn
+hdbscan
